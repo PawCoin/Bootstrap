@@ -1,2 +1,1 @@
-# Bootstrap
-22.08.2018
+# Bootstraps files
