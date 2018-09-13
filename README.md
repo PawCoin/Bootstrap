@@ -4,7 +4,7 @@ Bootstraps files are useful due dont need download blockchain to sync wallet, yo
 
 To use:
 
-Windows:
+- Windows:
 
 Download the file and rename to boostrap.dat whitout date.
 
